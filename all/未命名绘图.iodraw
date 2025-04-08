@@ -66,6 +66,10 @@
         <mxCell id="VOmSieJq4xUITWDQIRAD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-27" target="VOmSieJq4xUITWDQIRAD-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="141" y="150" />
+              <mxPoint x="141" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-27" value="是否手动模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
