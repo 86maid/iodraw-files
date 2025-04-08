@@ -12,8 +12,8 @@
         <mxCell id="pOTgfaRmL80foYTJSnVV-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pOTgfaRmL80foYTJSnVV-89" target="pOTgfaRmL80foYTJSnVV-111" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="220" />
-              <mxPoint x="140" y="220" />
+              <mxPoint x="240" y="320" />
+              <mxPoint x="140" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -23,25 +23,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOTgfaRmL80foYTJSnVV-89" value="水质是否异常" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pOTgfaRmL80foYTJSnVV-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229.76" y="380" as="targetPoint" />
-            <mxPoint x="229.76" y="340" as="sourcePoint" />
+            <mxPoint x="229.76" y="480" as="targetPoint" />
+            <mxPoint x="229.76" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOTgfaRmL80foYTJSnVV-108" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pOTgfaRmL80foYTJSnVV-109" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pOTgfaRmL80foYTJSnVV-111" value="启动蜂鸣器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-3" value="点亮LED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
