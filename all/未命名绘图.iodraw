@@ -75,6 +75,9 @@
         <mxCell id="VOmSieJq4xUITWDQIRAD-24" value="启动蜂鸣器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VOmSieJq4xUITWDQIRAD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-25" target="pOTgfaRmL80foYTJSnVV-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-25" value="点亮LED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
         </mxCell>
