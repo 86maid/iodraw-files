@@ -70,14 +70,6 @@
         <mxCell id="VOmSieJq4xUITWDQIRAD-27" value="是否手动模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VOmSieJq4xUITWDQIRAD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-31" target="VOmSieJq4xUITWDQIRAD-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-31" value="按键触发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
         </mxCell>
