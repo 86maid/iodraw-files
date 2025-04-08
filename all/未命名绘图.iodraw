@@ -4,17 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VOmSieJq4xUITWDQIRAD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="550" as="sourcePoint" />
-            <mxPoint x="430.02857142857147" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VOmSieJq4xUITWDQIRAD-15" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VOmSieJq4xUITWDQIRAD-14">
-          <mxGeometry x="0.1966" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOTgfaRmL80foYTJSnVV-108">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="390" as="targetPoint" />
@@ -27,7 +16,7 @@
           <mxGeometry x="370" y="930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-16" value="水质是否异常" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-24" target="VOmSieJq4xUITWDQIRAD-25">
           <mxGeometry relative="1" as="geometry" />
