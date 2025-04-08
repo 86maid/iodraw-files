@@ -50,17 +50,12 @@
         <mxCell id="VOmSieJq4xUITWDQIRAD-24" value="启动蜂鸣器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VOmSieJq4xUITWDQIRAD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-25" target="pOTgfaRmL80foYTJSnVV-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-25" target="VOmSieJq4xUITWDQIRAD-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="540" y="720" />
-              <mxPoint x="540" y="630" />
-              <mxPoint x="510" y="630" />
-              <mxPoint x="510" y="530" />
+              <mxPoint x="540" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
