@@ -20,9 +20,14 @@
             <mxPoint x="180" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOmSieJq4xUITWDQIRAD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-16">
+        <mxCell id="VOmSieJq4xUITWDQIRAD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-16" target="VOmSieJq4xUITWDQIRAD-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="510" />
+              <mxPoint x="345" y="510" />
+              <mxPoint x="345" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-16" value="水质是否异常" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
