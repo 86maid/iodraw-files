@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-16" value="水质是否异常" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="490" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-24" target="VOmSieJq4xUITWDQIRAD-25">
           <mxGeometry relative="1" as="geometry" />
