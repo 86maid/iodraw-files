@@ -13,7 +13,10 @@
           <mxGeometry x="370" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pOTgfaRmL80foYTJSnVV-109" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="930" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VOmSieJq4xUITWDQIRAD-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-16" target="VOmSieJq4xUITWDQIRAD-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-16" value="水质是否异常" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="120" height="80" as="geometry" />
@@ -22,10 +25,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-24" value="启动蜂鸣器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-25" value="点亮LED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOmSieJq4xUITWDQIRAD-27" target="VOmSieJq4xUITWDQIRAD-31">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +62,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-39" value="停止蜂鸣器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOmSieJq4xUITWDQIRAD-40" value="熄灭LED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VOmSieJq4xUITWDQIRAD-43" value="水质是否异常" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
